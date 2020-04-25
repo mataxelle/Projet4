@@ -1,3 +1,4 @@
+#Cache Navigateur
 # BEGIN Cache-Control Headers
 <IfModule mod_headers.c>
 <FilesMatch "\.(ico|jpe?g|png|gif|swf|css|gz)$">
@@ -45,4 +46,4 @@ AddOutputFilterByType DEFLATE application/rss+xml
 AddOutputFilterByType DEFLATE application/javascript
 AddOutputFilterByType DEFLATE application/x-javascript
 </IfModule> 
-END Activation
+# END Activation
