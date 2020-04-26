@@ -1,0 +1,5 @@
+# Site laisser libre à tous les robots
+User-Agent: *
+Disallow:
+
+Sitemap: https://mataxelle.github.io/Projet4/Sitemap.xml
